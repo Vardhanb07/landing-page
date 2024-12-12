@@ -5,19 +5,24 @@ body{
 .sone{
     background-color : #1f2937;
     font-family : Roboto;
-    color : white;
+    color : #f9faf8;
 }
 .header{
     display : flex;
-}
-.elone{
-    flex : 1;
-    padding-left : 90px;
     padding-top : 16px;
     padding-bottom: 16px;
-    font-weight : bold;
 }
+
+.header > span{
+    font-size : 24px;
+    flex: 4;
+    padding-left : 90px;
+    font-weight : bold; 
+}
+
 a{
     text-decoration: none;
-    flex: 1;
+    color : #f9faf8;
+    font-size : 18px;
+    flex : 1;
 }
