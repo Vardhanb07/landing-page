@@ -80,4 +80,11 @@ a{
     background-color : #3882f6;
     color : white;
     font-size : 18px;
+    width : 120px;
+    border-radius: 8px;
+    border : 0px;
+    height : 32px;
+    font-weight : bold;
 }
+/*end of styling of button*/
+
