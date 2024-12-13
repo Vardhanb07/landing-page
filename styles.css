@@ -164,3 +164,31 @@ a{
 /*end of styling of illustrations */
 
 /*end of styling of section two*/
+
+/*start of styling of section three */
+
+.sthree {
+    background-color : #e5e7eb;
+    padding-right : 100px;
+    padding : 20px 0 20px 0;
+    margin-top : 60px;
+}
+
+.sthree > .quote {
+    font-size : 36px;
+    font-family: "light italic";
+    padding-top : 60px;
+    padding-left : 170px;
+    text-align : start;
+}
+
+.sthree > .author {
+    text-align : end;
+    padding-right : 130px;
+    font-weight : 900;
+    font-family : Roboto;
+}
+
+/*end of styling of section three */
+
+
