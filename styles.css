@@ -2,6 +2,12 @@ body{
     margin : 0;
     padding : o;
 }
+
+
+/*start of styling of section one */
+
+
+
 .sone{
     background-color : #1f2937;
     font-family : Roboto;
@@ -87,4 +93,8 @@ a{
     font-weight : bold;
 }
 /*end of styling of button*/
+
+/*end of styling of section one*/
+
+
 
