@@ -56,7 +56,7 @@ a{
     font-size : 48px;
     font-weight : 900;
     color : #f9faf8;
-    width : 290px;
+    width : 300px;
     padding-bottom: 0px;
     margin-bottom : 0px;
     flex-basis : 0px;
@@ -96,5 +96,42 @@ a{
 
 /*end of styling of section one*/
 
+
+/*start of styling of section two */
+
+.stwo {
+    display : flex;
+    flex-direction : column;
+    align-items : center;
+    font-family : Roboto;
+}
+
+/*start of styling of text after introductory text */
+
+
+.rtext{
+    font-size : 36px;
+    color : #1f2937;
+    font-weight : 900;
+}
+
+/*end of styling of text after introductory text*/
+
+/* start of stylig of illustrations */
+
+.illustration {
+    display : flex;
+}
+
+.illustration.container{
+    display : flex;
+}
+
+.box{
+    width : 100px;
+    height : 100px;
+    border : 4px solid #3882f6;
+    border-radius : 8px;
+}
 
 
