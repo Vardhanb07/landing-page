@@ -245,3 +245,14 @@ a{
 }
 
 /*end of styling of div element */
+
+/*start of styling of footer */
+
+.footer {
+    background-color : #1f2937;
+    color : white;
+    text-align : center;
+    padding : 20px;
+}
+
+/*end of styling of footer */
