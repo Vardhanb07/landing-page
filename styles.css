@@ -7,7 +7,7 @@ body{
 
 .sone{
     background-color : #1f2937;
-    font-family : Roboto;
+    font-family : Roboto,sans-serif;
     color : #f9faf8;
 }
 
@@ -106,7 +106,7 @@ a{
     display : flex;
     flex-direction : column;
     align-items : center;
-    font-family : Roboto;
+    font-family : Roboto,sans-serif;
     background-color: #f9faf8;
 }
 
@@ -185,7 +185,7 @@ a{
     text-align : end;
     padding-right : 130px;
     font-weight : 900;
-    font-family : Roboto;
+    font-family : Roboto,sans-serif;
 }
 
 /*end of styling of section three */
@@ -205,7 +205,7 @@ a{
 
 .ctatext {
     flex : 4;
-    font-family : Roboto;
+    font-family : Roboto,sans-serif;
 }
 
 .ctatext > p{
