@@ -251,7 +251,8 @@ a{
     background-color : #1f2937;
     color : white;
     text-align : center;
-    padding : 20px;
+    padding : 30px;
+    font-family: Roboto,sans-serif;
 }
 
 /*end of styling of footer */
