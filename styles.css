@@ -191,4 +191,57 @@ a{
 
 /*end of styling of section three */
 
+/*start of styling of div element */
 
+.signup {
+    margin : 90px 120px 90px 120px;
+    background-color: #3882f6;
+    border-radius : 8px;
+    padding-top : 50px;
+    padding-bottom : 50px;
+    padding-left : 120px;
+    padding-right : 120px;
+    display : flex;
+}
+
+.ctatext {
+    flex : 4;
+    font-family : Roboto;
+}
+
+.ctatext > p{
+    margin : 0;
+    color  :white;
+}
+
+/*start of styling of button */
+
+.signup > button {
+    color : white;
+    background-color : #3882f6;
+    border : 3px solid white;
+    border-radius : 8px;
+    font-size : 18px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    width : 0px;
+    margin : 0;
+    padding-top : 10px;
+    padding-bottom: 10px;
+    padding-right : 0;
+    padding-left : 0;
+    font-weight : bold;
+}
+
+/*end of styling of button */
+
+.ctatext > .fptext {
+    color : #e5e7eb;
+    font-size : 18px;
+}
+
+.ctatext > .btext {
+    font-size : 21px;
+}
+
+/*end of styling of div element */
